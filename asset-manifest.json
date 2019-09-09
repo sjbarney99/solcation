@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/solcation/static/css/main.2cce8147.chunk.css",
+    "main.js": "/solcation/static/js/main.9e2bc246.chunk.js",
+    "main.js.map": "/solcation/static/js/main.9e2bc246.chunk.js.map",
+    "runtime~main.js": "/solcation/static/js/runtime~main.f103a3e2.js",
+    "runtime~main.js.map": "/solcation/static/js/runtime~main.f103a3e2.js.map",
+    "static/js/2.5c8247ce.chunk.js": "/solcation/static/js/2.5c8247ce.chunk.js",
+    "static/js/2.5c8247ce.chunk.js.map": "/solcation/static/js/2.5c8247ce.chunk.js.map",
+    "index.html": "/solcation/index.html",
+    "precache-manifest.eff12ceec19e75eb718efb357e84bc7c.js": "/solcation/precache-manifest.eff12ceec19e75eb718efb357e84bc7c.js",
+    "service-worker.js": "/solcation/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/solcation/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/solcation/static/media/logo.5d5d9eef.svg"
+  }
+}
